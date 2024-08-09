@@ -1,0 +1,11 @@
+﻿{
+  "Title": "Custom Helmet Boilerplate",
+  "Description": "Loads a custom helmet",
+  "PreviewImageUrl": "https://vtolvr-mods.com/static/img/Logo.png",
+  "MetaData": {
+    "DllName": "CustomHelmetBoilerplate.dll",
+    "AllowLoadOnStart": true,
+    "ShowOnMainList": true,
+    "DllHash": ""
+  }
+}
